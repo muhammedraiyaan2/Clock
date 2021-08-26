@@ -13,7 +13,7 @@ if(hour>=13){
 }
 setTimeout(() => {
     location.reload()
-}, sec*1000);
+}, sec*1000-sec);
 if(b==0){
     b="Sunday"
 }

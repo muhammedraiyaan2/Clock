@@ -1,0 +1,21 @@
+.container1{
+    background-image: linear-gradient(to right,rgb(255, 91, 91),rgb(79, 79, 255));
+    /* background-image: linear-gradient(to right,lightgreen,rgb(255, 255, 106),rgb(255, 98, 98)); */
+}
+.container2{
+    background-image: linear-gradient(to right,lightgreen,rgb(255, 255, 106),rgb(255, 98, 98));
+}
+.container3{
+    background-image: linear-gradient(to right,lightgreen,green);
+}
+.container4{
+    background-image: linear-gradient(to right,lightblue,purple);
+}
+.cotainer{
+    font-size: 25px;
+    color: white;
+    width: fit-content;
+    padding: 10px 17px;
+    margin: auto;
+    background-color: rgba(0, 0, 0,0.1);
+}

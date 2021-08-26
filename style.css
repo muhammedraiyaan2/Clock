@@ -12,6 +12,7 @@
     background-image: linear-gradient(to right,lightblue,purple);
 }
 .cotainer{
+    font-family: 'Merriweather', serif;
     font-size: 25px;
     color: white;
     width: fit-content;
